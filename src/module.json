@@ -63,35 +63,14 @@
 		}
 	],
 	"scripts": [],
-	"esmodules": ["MidiSRD-macros.js"],
-	"styles": ["styles/midiSRD-styles.css"],
+	"esmodules": ["main.js"],
+	"styles": [""],
 	"packs": [
 		{
-			"name": "Midi SRD Items",
-			"label": "Midi SRD  Items",
-			"path": "packs/equipment.db",
-			"entity": "Item",
-			"module": "Midi SRD"
-		},
-		{
-			"name": "Midi SRD Spells",
-			"label": "Midi SRD Spells",
-			"path": "packs/spells.db",
-			"entity": "Item",
-			"module": "Midi SRD"
-		},
-		{
-			"name": "Midi SRD Feats",
-			"label": "Midi SRD Feats",
-			"path": "packs/feats.db",
-			"entity": "Item",
-			"module": "Midi SRD"
-		},
-		{
-			"name": "Midi SRD Macros",
-			"label": "Midi SRD Macros",
-			"path": "packs/Macros.db",
-			"entity": "Macro",
+			"name": "CMV - Community Dnd5e",
+			"label": "CMV - Community Dnd5e",
+			"path": "packs/macros-dnd5e-macros-5e.db",
+			"type": "Macro",
 			"module": "Midi SRD"
 		}
 	],
