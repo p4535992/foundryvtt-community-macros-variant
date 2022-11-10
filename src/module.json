@@ -1,5 +1,5 @@
 {
-	"id": "foundryvtt-community-macros-variant",
+	"id": "community-macros-variant",
 	"title": "Foundry Community Macros Collection Variant",
 	"description": "Macros for items, features and spells configured for may effects has Dynamic Active Effects, Midi QoL and others modules",
 	"version": "0.3.0",
@@ -71,7 +71,8 @@
 			"label": "CMV - Community Dnd5e",
 			"path": "packs/macros-dnd5e-macros-5e.db",
 			"type": "Macro",
-			"module": "Midi SRD"
+			"system": "dnd5e",
+			"module": "community-macros-variant"
 		}
 	],
 	"system": ["dnd5e", "sw5e"],
@@ -83,12 +84,12 @@
 		"maximum": 9
 	},
 	"manifestPlusVersion": "1.2.0",
-	"url": "https://github.com/p4535992/foundryvtt-midi-items-community-collection",
-	"manifest": "https://github.com/p4535992/foundryvtt-midi-items-community-collection/releases/latest/download/module.json",
-	"download": "https://github.com/p4535992/foundryvtt-midi-items-community-collection/releases/latest/download/module.zip",
-	"readme": "https://github.com/p4535992/foundryvtt-midi-items-community-collection/blob/v0.3.0/README.md",
-	"changelog": "https://github.com/p4535992/foundryvtt-midi-items-community-collection/blob/v0.3.0/changelog.md",
-	"bugs": "https://github.com/p4535992/foundryvtt-midi-items-community-collection/issues",
+	"url": "https://github.com/p4535992/foundryvtt-community-macros-variant",
+	"manifest": "https://github.com/p4535992/foundryvtt-community-macros-variant/releases/latest/download/module.json",
+	"download": "https://github.com/p4535992/foundryvtt-community-macros-variant/releases/latest/download/module.zip",
+	"readme": "https://github.com/p4535992/foundryvtt-community-macros-variant/blob/v0.3.0/README.md",
+	"changelog": "https://github.com/p4535992/foundryvtt-community-macros-variant/blob/v0.3.0/changelog.md",
+	"bugs": "https://github.com/p4535992/foundryvtt-community-macros-variant/issues",
 	"allowBugReporter": true,
 	"dependencies": [
 		{
