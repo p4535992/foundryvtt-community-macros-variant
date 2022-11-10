@@ -75,13 +75,10 @@
 			"module": "community-macros-variant"
 		}
 	],
-	"system": ["dnd5e", "sw5e"],
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "9",
 	"compatibility": {
-		"minimum": 9,
-		"verified": 9,
-		"maximum": 9
+		"minimum": 10,
+		"verified": 10,
+		"maximum": 10
 	},
 	"manifestPlusVersion": "1.2.0",
 	"url": "https://github.com/p4535992/foundryvtt-community-macros-variant",
@@ -91,36 +88,42 @@
 	"changelog": "https://github.com/p4535992/foundryvtt-community-macros-variant/blob/v0.3.0/changelog.md",
 	"bugs": "https://github.com/p4535992/foundryvtt-community-macros-variant/issues",
 	"allowBugReporter": true,
-	"dependencies": [
-		{
-			"name": "lib-wrapper"
-		},
-		{
-			"name": "socketlib"
-		},
-		{
-			"name": "dae",
-			"manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
-		},
-		{
-			"name": "midi-qol",
-			"manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
-		},
-		{
-			"name": "advanced-macros",
-			"manifest": "https://github.com/League-of-Foundry-Developers/fvtt-advanced-macros/releases/latest/download/module.json"
-		},
-		{
-			"name": "foundryvtt-simple-calendar",
-			"manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/latest/download/module.json"
-		},
-		{
-			"name": "times-up",
-			"manifest": "https://gitlab.com/tposney/times-up/raw/master/package/module.json"
-		}
-	],
-	"flags": {
-		"manifestPlusVersion": "1.2.0",
-		"allowBugReporter": true
+	"relationships": {
+		"systems": [],
+		"requires": [
+			{
+				"id": "lib-wrapper",
+				"type": "module",
+				"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+				"compatibility": {}
+			},
+			{
+				"id": "socketlib",
+				"type": "module",
+				"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/develop/module.json",
+				"compatibility": {}
+			},
+			{
+				"id": "dae",
+				"manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
+			},
+			{
+				"id": "midi-qol",
+				"manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
+			},
+			{
+				"id": "advanced-macros",
+				"manifest": "https://github.com/League-of-Foundry-Developers/fvtt-advanced-macros/releases/latest/download/module.json"
+			},
+			{
+				"id": "foundryvtt-simple-calendar",
+				"manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/latest/download/module.json"
+			},
+			{
+				"id": "times-up",
+				"manifest": "https://gitlab.com/tposney/times-up/raw/master/package/module.json"
+			}
+		],
+		"conflicts": []
 	}
 }
