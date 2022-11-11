@@ -1,4 +1,4 @@
-# Midi Items Community Collection
+# Foundry Community Collection Variant
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/p4535992/foundryvtt-community-macros-variant?style=for-the-badge)
 
