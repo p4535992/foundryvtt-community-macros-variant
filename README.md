@@ -74,6 +74,7 @@ To install this module manually:
 - [caewok Foundry-Macros](https://github.com/caewok/Foundry-Macros)
 - [GeneralZero FounderyMacros](https://github.com/GeneralZero/FounderyMacros)
 - [JamesBrandts FoundryVTT Macro](https://github.com/JamesBrandts/FoundryVTT)
+- [masels-foundryvtt-macros](https://github.com/Maselkov/masels-foundryvtt-macros/)
 
 ## Settings
 
