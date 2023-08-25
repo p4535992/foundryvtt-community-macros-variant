@@ -56,25 +56,26 @@ To install this module manually:
 
 ## Macros repositories from the community, i use for generate the compendiums (details on the license are at the bottom of the readme)
 
-- [Kekilla0 Personal-Macros](https://github.com/Kekilla0/Personal-Macros)
-- [Otigon Foundry-Macros](https://github.com/otigon/Foundry-Macros)
-- [MisterHims DnD5e-WildShape-Macro](https://github.com/MisterHims/DnD5e-WildShape-Macro)
-- [Crymic foundry-vtt-macros](https://gitlab.com/crymic/foundry-vtt-macros)
-- [Rinnocenti Personal-Macros](https://github.com/rinnocenti/Personal-Macros)
-- [VanceCole macros](https://github.com/VanceCole/macros)
-- [Unsoluble fvtt-macros](https://github.com/unsoluble/fvtt-macros)
-- [flamewave000 fvtt-macros](https://github.com/flamewave000/fvtt-macros)
-- [itamarcu foundry-macros](https://github.com/itamarcu/foundry-macros)
-- [itamarcu shemetz-macros](https://github.com/itamarcu/shemetz-macros)
-- [trioderegion fvtt-macros](https://github.com/trioderegion/fvtt-macros)
-- [theripper93 FoundryVTT-Macro](https://github.com/theripper93/FoundryVTT-Macros)
-- [Freeze020 foundry-vtt-scripts](https://gitlab.com/Freeze020/foundry-vtt-scripts)
-- [Jeznar Utility-Macros](https://github.com/Jeznar/Utility-Macros)
-- [Kuffeh1 Foundry](https://github.com/Kuffeh1/Foundry)
-- [caewok Foundry-Macros](https://github.com/caewok/Foundry-Macros)
-- [GeneralZero FounderyMacros](https://github.com/GeneralZero/FounderyMacros)
-- [JamesBrandts FoundryVTT Macro](https://github.com/JamesBrandts/FoundryVTT)
-- [masels-foundryvtt-macros](https://github.com/Maselkov/masels-foundryvtt-macros/)
+- [Kekilla0 Personal-Macros](https://github.com/Kekilla0/Personal-Macros) - https://github.com/Kekilla0/Personal-Macros
+- [Otigon Foundry-Macros](https://github.com/otigon/Foundry-Macros) - https://github.com/otigon/Foundry-Macros
+- [MisterHims DnD5e-WildShape-Macro](https://github.com/MisterHims/DnD5e-WildShape-Macro) - https://github.com/MisterHims/DnD5e-WildShape-Macro
+- [Crymic foundry-vtt-macros](https://gitlab.com/crymic/foundry-vtt-macros) - https://gitlab.com/crymic/foundry-vtt-macros
+- [Rinnocenti Personal-Macros](https://github.com/rinnocenti/Personal-Macros) - https://github.com/rinnocenti/Personal-Macros
+- [VanceCole macros](https://github.com/VanceCole/macros) - https://github.com/VanceCole/macros
+- [Unsoluble fvtt-macros](https://github.com/unsoluble/fvtt-macros) - https://github.com/unsoluble/fvtt-macros
+- [flamewave000 fvtt-macros](https://github.com/flamewave000/fvtt-macros) - https://github.com/flamewave000/fvtt-macros
+- [itamarcu foundry-macros](https://github.com/itamarcu/foundry-macros) - https://github.com/itamarcu/foundry-macros
+- [itamarcu shemetz-macros](https://github.com/itamarcu/shemetz-macros) - https://github.com/itamarcu/shemetz-macros
+- [trioderegion fvtt-macros](https://github.com/trioderegion/fvtt-macros) - https://github.com/trioderegion/fvtt-macros
+- [theripper93 FoundryVTT-Macro](https://github.com/theripper93/FoundryVTT-Macros) -https://github.com/theripper93/FoundryVTT-Macros
+- [Freeze020 foundry-vtt-scripts](https://gitlab.com/Freeze020/foundry-vtt-scripts) - https://gitlab.com/Freeze020/foundry-vtt-scripts
+- [Jeznar Utility-Macros](https://github.com/Jeznar/Utility-Macros) -https://github.com/Jeznar/Utility-Macros
+- [Kuffeh1 Foundry](https://github.com/Kuffeh1/Foundry) - https://github.com/Kuffeh1/Foundry
+- [caewok Foundry-Macros](https://github.com/caewok/Foundry-Macros) - https://github.com/caewok/Foundry-Macros
+- [GeneralZero FounderyMacros](https://github.com/GeneralZero/FounderyMacros) - https://github.com/GeneralZero/FounderyMacros
+- [JamesBrandts FoundryVTT Macro](https://github.com/JamesBrandts/FoundryVTT) - https://github.com/JamesBrandts/FoundryVTT
+- [masels-foundryvtt-macros](https://github.com/Maselkov/masels-foundryvtt-macros) - https://github.com/Maselkov/masels-foundryvtt-macros
+- [JB2A Sequencer Macro Library](https://github.com/IrateRedKite/jb2a-sequencer-spell-macros) - https://github.com/IrateRedKite/jb2a-sequencer-spell-macros
 
 ## Settings
 
